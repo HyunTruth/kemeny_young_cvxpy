@@ -1,5 +1,5 @@
 # kenemy_young_cvxpy
-A heuristic implementation kemeny-young method (a rank aggregation method) as a LP program for quicker computation.
+A heuristic implementation of kemeny-young method (a rank aggregation method) as a LP program for quicker computation.
 
 Implemented in cvxpy, python 3.
 
